@@ -6,8 +6,8 @@ Este é um projeto simples que implementa um sistema de vendas em Python. O obje
 ## Requisitos
 
 - Python 3.x
-- Módulo `models.produto`
-- Módulo `mercado.py'
+- Módulo `mercado.py`
+- Módulo `teste.py`
 
 ## Instalação
 
