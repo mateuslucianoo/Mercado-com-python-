@@ -8,6 +8,8 @@ Este é um projeto simples que implementa um sistema de vendas em Python. O obje
 - Python 3.x
 - Módulo `mercado.py`
 - Módulo `teste.py`
+- Módulo `produto.py`
+- 
 
 ## Instalação
 
